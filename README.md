@@ -26,6 +26,18 @@ exceptions.py – Custom exception handling
 Clone the repository and run:
 
 python main.py
+## Future Scope
+
+This project can be extended into a full web-based banking application. 
+Future improvements may include:
+
+• Developing a web interface using frameworks such as Django or Flask  
+• Implementing secure user authentication and authorization  
+• Integrating a more robust database like PostgreSQL or MySQL  
+• Adding transaction history and account statements  
+• Implementing API-based architecture for scalability  
+• Enhancing security features such as password hashing and encryption  
+• Deploying the application on a cloud platform for public access
 
 ## Author
 Shaik Latheef
