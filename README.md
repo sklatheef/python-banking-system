@@ -39,5 +39,27 @@ Future improvements may include:
 • Enhancing security features such as password hashing and encryption  
 • Deploying the application on a cloud platform for public access
 
+## Project Structure
+python-banking-system
+│
+├── screenshots
+│   ├── Data-interface.jpeg
+│   └── Home-interface.jpeg
+│
+├── main.py
+├── functions.py
+├── encryption.py
+├── decorator.py
+├── exceptions.py
+├── README.md
+
+## Application Screenshots
+
+### Banking System Home Interface
+![Home Interface](screenshots/Home-interface.jpeg)
+
+### Account Data Interface
+![Data Interface](screenshots/Data-interface.jpeg)
+
 ## Author
 Shaik Latheef
